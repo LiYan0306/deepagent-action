@@ -308,6 +308,18 @@ print("\n========== 测试完成 ==========")
 ```
 
 
+检查trace
+
+检查trace
+
+![alt text](image.png)
+
+
+
+
+
+
+
 
 
 
